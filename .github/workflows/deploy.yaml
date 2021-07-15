@@ -33,5 +33,3 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           .github/workflows/deploy.sh
-
-## gfg
